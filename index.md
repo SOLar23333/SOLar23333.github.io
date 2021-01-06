@@ -20,6 +20,46 @@ Current Working Project: **XPlore UCSD**
 
 Version 1.1 is avaliable on the [App Store](https://apps.apple.com/us/app/xplore-ucsd/id1534251313)
 
+### Coding Skills & Tools
+
+1. C++
+2. C
+3. Unity Engine
+	- C#
+4. Swift
+	- SwiftUI
+	- XCode
+5. Java
+6. Microsoft Office
+
+Favorite coding language is:
+```
+#include <iostrea>
+using namespace std;
+int main()
+{
+	cout << "C++" << endl;
+	return 0;
+}
+```
+
+### Language
+
+-[x] Chinese Mandarin (Native)
+-[x] English (Proficient)
+-[ ] Japanese (Elementary)
+
+
+### Hobbies
+
+- Japanese Anime
+- Video Game
+- Music (Piano, J-Pop, Pop)
+- Huge fan of **Taylor Swift**
+
+![Evermore Album](https://cache.umusic.com/_sites/_halo/taylorswift/x6/images/evermore-desktop-v2.jpg)
+
+
 
 
 
