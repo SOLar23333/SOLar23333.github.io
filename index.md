@@ -45,9 +45,9 @@ int main()
 
 ### Language
 
--[x] Chinese Mandarin (Native)
--[x] English (Proficient)
--[ ] Japanese (Elementary)
+- [x] Chinese Mandarin (Native)
+- [x] English (Proficient)
+- [ ] Japanese (Elementary)
 
 
 ### Hobbies
