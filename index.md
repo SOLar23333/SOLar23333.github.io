@@ -1,3 +1,38 @@
+## Welcome to Jared Zhang's GitHub Page
+
+### About myself
+- Name: Jared Zhang
+- Legal Name: Jiaer Zhang
+- Hometown: Wuhan, China
+- Pronounce: He/Him/His
+- Age: 21
+- Education: UC San Diego
+- Major: Mathematics and Computer Science
+- Constellation: Sagittarius
+
+### Working Experience
+
+**iOS Software Developer Intern** at 2GO Product, LLC, *2020.1 - current*
+
+Current Working Project: **XPlore UCSD**
+
+> XPlore UCSD is a mobile application that aims to provide a pleasant, easy-to-use, and highly customizable guided touring experience for all tourists and prospective students visiting the UC San Diego campus.
+
+Version 1.1 is avaliable on the [App Store](https://apps.apple.com/us/app/xplore-ucsd/id1534251313)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 [GitHub Pages](https://pages.github.com/)
